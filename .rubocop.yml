@@ -1,0 +1,12 @@
+AllCops:
+  Include:
+    - Rakefile
+  Exclude:
+    - .*/**/*
+    - vendor/**/*
+
+Style/Documentation:
+  Enabled: false
+
+Style/TrivialAccessors:
+  Enabled: false
