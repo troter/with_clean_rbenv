@@ -7,6 +7,7 @@ This gem is based on this article.
 * [rbenv のメカニズム - @kyanny&#39;s blog](http://blog.kyanny.me/entry/2013/05/10/rbenv_%E3%81%AE%E3%83%A1%E3%82%AB%E3%83%8B%E3%82%BA%E3%83%A0)
 
 [![Build Status](https://travis-ci.org/troter/with_clean_rbenv.svg?branch=master)](https://travis-ci.org/troter/with_clean_rbenv)
+[![Coverage Status](https://coveralls.io/repos/troter/with_clean_rbenv/badge.svg)](https://coveralls.io/r/troter/with_clean_rbenv)
 
 ## Installation
 
